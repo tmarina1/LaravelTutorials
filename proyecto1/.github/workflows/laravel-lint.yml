@@ -2,9 +2,9 @@ name: Laravel-lint
 
 on:
   push:
-    branches: ["main"]
+    branches: ["Taller4"]
   pull_request:
-    branches: ["main"]
+    branches: ["Taller4"]
 
 jobs:
   laravel-lint:
